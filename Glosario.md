@@ -15,6 +15,7 @@ Ejemplo: https://www.ejemplo.com/blog/articulo1
 https:// → Protocolo
 www.ejemplo.com → Dominio
 /blog/articulo1 → Ruta de la página específica
+
 📌 Puerto
 Es como una puerta de entrada en un dispositivo para diferentes tipos de comunicación en la red. Algunos puertos comunes:
 
